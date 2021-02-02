@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an _open minded_, _optimistic_ person and look forward to exploring different areas of **technology**, to find out where my interest lies in. I am an **active team player** and really like *expressing my opinion* and sharing __new ideas__.
